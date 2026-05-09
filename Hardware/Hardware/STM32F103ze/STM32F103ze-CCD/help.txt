@@ -1,0 +1,6 @@
+初始化  USART1，TIM1-4，ADC1，DMA1_Channel1 初始化 
+使用  PA2(TIM2_CH3（TCD1304DG的M引脚）) ，PA6(TIM3_CH1（TCD1304DG的ICG引脚）) ，PB6(TIM4_CH1（TCD1304DG的SH引脚）)
+PA4(ADC1_IN4（TCD1304DG的OS引脚）)，PA9(USART1_TX)，PA10(USART1_RX)
+步骤1：串口接收一个8位数据（x）曝光时间=（36*(7500+21+x)/40）us
+步骤2：串口接收一个8位数据（0xFF）
+串口发送2*3648个8位数据（串口每接受一个8位数据（0xFF）都会发送2*3648个8位数据）
