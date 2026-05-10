@@ -1,9 +1,9 @@
 # OPTOELECTRONICS & SENSING: ENGINEERING PORTFOLIO FOR OPTICAL SENSING & SIMULATION
 
-[![Tech](https://img.shields.io/badge/CORE_TECH-ZEMAX%20%7C%20COMSOL%20%7C%20MATLAB-blue)](#) [![Hardware](https://img.shields.io/badge/HARDWARE_&_UI-C%2B%2B%20%7C%20QT%20%7C%20PYTHON-orange)](#) [![Research](https://img.shields.io/badge/RESEARCH-PAPERS%20%7C%20PATENTS-success)](#)
+[![TECH](https://img.shields.io/badge/CORE_TECH-ZEMAX%20%7C%20COMSOL%20%7C%20MATLAB-blue)](#) [![HARDWARE](https://img.shields.io/badge/HARDWARE_&_UI-C%2B%2B%20%7C%20QT%20%7C%20PYTHON-orange)](#) [![RESEARCH](https://img.shields.io/badge/RESEARCH-PAPERS%20%7C%20PATENTS-success)](#)
 
 > 💡 **PROJECT OVERVIEW**:
-> This repository contains full development materials for a grating spectrometer (including low-level hardware, GUI, and optical path simulation), as well as multi-physics simulation projects for acoustic-optical crystals, diffraction gratings, atmospheric transmission, and solid-state lasers. It also includes undergraduate competition papers, patents, and quantum algorithm simulations on the IBM Quantum platform.
+> THIS REPOSITORY CONTAINS FULL DEVELOPMENT MATERIALS FOR A GRATING SPECTROMETER (INCLUDING LOW-LEVEL HARDWARE, GUI, AND OPTICAL PATH SIMULATION), AS WELL AS MULTI-PHYSICS SIMULATION PROJECTS FOR ACOUSTIC-OPTICAL CRYSTALS, DIFFRACTION GRATINGS, ATMOSPHERIC TRANSMISSION, AND SOLID-STATE LASERS. IT ALSO INCLUDES UNDERGRADUATE COMPETITION PAPERS, PATENTS, AND QUANTUM ALGORITHM SIMULATIONS ON THE IBM QUANTUM PLATFORM.
 
 ---
 
@@ -15,16 +15,16 @@
 
 | DOMAIN | CORE MODULE | DESCRIPTION | DIRECTORY LINK |
 | :--- | :--- | :--- | :--- |
-| **01. GRATING SPECTROMETER FABRICATION** | Hardware Layer | Low-level hardware control code | [👉 Jump to /Hardware/Hardware](./Hardware/Hardware) |
-| | GUI Interface | PC-side interactive interface code | [👉 Jump to /Hardware/Window](./Hardware/Window) |
-| | Optical Simulation | ZEMAX optical path simulation | [👉 Jump to /Simulation/SPECTRUM](./Simulation/SPECTRUM) |
-| **02. OPTOELECTRONIC & MULTI-PHYSICS SIMULATION** | Acoustic-Optical | Acoustic-optical crystal Comsol simulation | [👉 Jump to /Simulation/ACOUSTIC_OPTICAL/Comsol](./Simulation/ACOUSTIC_OPTICAL/Comsol) |
-| | Grating Diffraction | Diffraction grating MATLAB simulation | [👉 Jump to /Simulation/ACOUSTIC_OPTICAL/MATLAB](./Simulation/ACOUSTIC_OPTICAL/MATLAB) |
-| **03. ATMOSPHERIC & SOLID-STATE LASER SIMULATION** | Atmospheric | Atmospheric LowTran simulation | [👉 Jump to /Simulation/SOLID_LASER/LowTran](./Simulation/SOLID_LASER/LowTran) |
-| | Solid-state Laser | ZEMAX simulation and physical validation | [👉 Jump to /Simulation/SOLID_LASER/ZEMAX](./Simulation/SOLID_LASER/ZEMAX) |
-| **04. QUANTUM COMPUTING EXPLORATION** | Quantum Algorithm | Grover algorithm simulation on IBM Quantum | [👉 Jump to /Simulation/Quantum](./Simulation/Quantum) |
-| **05. ACADEMIC ACHIEVEMENTS & HONORS** | Research Papers | Undergraduate competition papers | [👉 Jump to /Honor/Game](./Honor/Game) |
-| | Invention Patents | Undergraduate patent filings | [👉 Jump to /Honor/Patent](./Honor/Patent) |
+| **ONE. GRATING SPECTROMETER FABRICATION** | HARDWARE LAYER | LOW-LEVEL HARDWARE CONTROL CODE | [👉 JUMP TO /HARDWARE/HARDWARE](./Hardware/Hardware) |
+| | GUI INTERFACE | PC-SIDE INTERACTIVE INTERFACE CODE | [👉 JUMP TO /HARDWARE/WINDOW](./Hardware/Window) |
+| | OPTICAL SIMULATION | ZEMAX OPTICAL PATH SIMULATION | [👉 JUMP TO /SIMULATION/SPECTRUM](./Simulation/SPECTRUM) |
+| **TWO. OPTOELECTRONIC & MULTI-PHYSICS SIMULATION** | ACOUSTIC-OPTICAL | ACOUSTIC-OPTICAL CRYSTAL COMSOL SIMULATION | [👉 JUMP TO /SIMULATION/ACOUSTIC_OPTICAL/COMSOL](./Simulation/ACOUSTIC_OPTICAL/Comsol) |
+| | GRATING DIFFRACTION | DIFFRACTION GRATING MATLAB SIMULATION | [👉 JUMP TO /SIMULATION/ACOUSTIC_OPTICAL/MATLAB](./Simulation/ACOUSTIC_OPTICAL/MATLAB) |
+| **THREE. ATMOSPHERIC & SOLID-STATE LASER SIMULATION** | ATMOSPHERIC | ATMOSPHERIC LOWTRAN SIMULATION | [👉 JUMP TO /SIMULATION/SOLID_LASER/LOWTRAN](./Simulation/SOLID_LASER/LowTran) |
+| | SOLID-STATE LASER | ZEMAX SIMULATION AND PHYSICAL VALIDATION | [👉 JUMP TO /SIMULATION/SOLID_LASER/ZEMAX](./Simulation/SOLID_LASER/ZEMAX) |
+| **FOUR. QUANTUM COMPUTING EXPLORATION** | QUANTUM ALGORITHM | GROVER ALGORITHM SIMULATION ON IBM QUANTUM | [👉 JUMP TO /SIMULATION/QUANTUM](./Simulation/Quantum) |
+| **FIVE. ACADEMIC ACHIEVEMENTS & HONORS** | RESEARCH PAPERS | UNDERGRADUATE COMPETITION PAPERS | [👉 JUMP TO /HONOR/GAME](./Honor/Game) |
+| | INVENTION PATENTS | UNDERGRADUATE PATENT FILINGS | [👉 JUMP TO /HONOR/PATENT](./Honor/Patent) |
 
 ---
 *NOTE: EACH SUBDIRECTORY CONTAINS CORRESPONDING SOURCE CODE. PLEASE CLICK THE LINKS IN THE TABLE ABOVE FOR FURTHER DETAILS.*
